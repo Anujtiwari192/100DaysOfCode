@@ -10,9 +10,6 @@
 - ⚡ When not coding: I love to :pen: write, :books: read, play mandolin, football :soccer:
 - :thinking: Phiosophy: 'Great attitude takes you to great altitude'
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Languages and Tools:
 
