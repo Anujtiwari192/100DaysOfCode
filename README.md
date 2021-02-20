@@ -1,12 +1,13 @@
 ### Hi there, I'm Anuj - aka [Anuj]👋
 ~ mind me still working on a cool(may be a super hero) nickname
 
-## I'm a Student, Developer, Writer, and Teacher!!
+## I'm a Learner, Developer, Writer, and Reader!!
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ When not coding: I love to write, play mandolin, football
+- ⚡ When not coding: I love to :pen: write, play mandolin, football :soccer:
+- :thinking: Phiosophy: 'Great attitude takes you to great altitude'
 
 
 ### Connect with me:
