@@ -39,4 +39,5 @@
 ---
 
 [twitter]: https://twitter.com/I_Anuj_Tiwari
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/anuj-tiwari-b62569107
+
