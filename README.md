@@ -1,11 +1,12 @@
 ### Hi there, I'm Anuj - aka [Anuj]👋
-~ :wink: still working on a cool(probably super hero) nickname
+~ :nerd_face: working on a cool(probably super hero) nickname
 
 ## I'm a Learner, Developer, Writer!!
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
+               - Push code regularly on this repo
 - ⚡ When not coding: I love to :pen: write, :books: read, play mandolin, football :soccer:
 - :thinking: Phiosophy: 'Great attitude takes you to great altitude'
 
