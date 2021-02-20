@@ -1,12 +1,12 @@
 ### Hi there, I'm Anuj - aka [Anuj]👋
-~ mind me still working on a cool(may be a super hero) nickname
+~ :wink: still working on a cool(probably super hero) nickname
 
-## I'm a Learner, Developer, Writer, and Reader!!
+## I'm a Learner, Developer, Writer!!
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ When not coding: I love to :pen: write, play mandolin, football :soccer:
+- ⚡ When not coding: I love to :pen: write, :books: read, play mandolin, football :soccer:
 - :thinking: Phiosophy: 'Great attitude takes you to great altitude'
 
 
@@ -19,17 +19,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-</details> 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/I_Anuj_Tiwari
 [linkedin]: https://linkedin.com/in/
